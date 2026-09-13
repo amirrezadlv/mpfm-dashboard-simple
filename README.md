@@ -1,5 +1,7 @@
 # MPFM Analytics — Multiphase Flow Meter Dashboard
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg?style=for-the-badge)](https://amirrezadlv.github.io/mpfm-dashboard-simple/)
+
 A professional, client-side analytics dashboard for **Multiphase Flow Meter (MPFM)** data. Built for petroleum engineers, production technologists, and flow assurance specialists who need to monitor, validate, and diagnose well performance from high-frequency meter logs — without sending sensitive field data to any server.
 
 **Created by Amirreza Dalvand**  
